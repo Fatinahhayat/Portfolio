@@ -100,7 +100,7 @@ nav {
     left: 0;
 }
 
-.hamburger {
+/* .hamburger {
     display: none; 
     cursor: pointer;
    
@@ -116,8 +116,8 @@ nav {
     background-color:#132dbe;
 
 }
-
-@media (max-width:768px) {
+ */
+/* @media (max-width:768px) {
     .hamburger {
         display: block;
     }
@@ -155,7 +155,7 @@ nav {
         
     }
 }
-
+ */
 
 p {
     
